@@ -1,0 +1,7 @@
+{
+  "name": "SkillSetu",
+  "description": "Discover what to learn next. Prove that you improved. AI-powered competency coach and learning pathway platform for Junior Data Analysts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
